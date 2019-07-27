@@ -1,2 +1,2 @@
 # BBM103
-BBM103: Introduction to Programming Laboratory I
+HACETTEPE UNIVERSITY DEPARTMENT OF COMPUTER ENGINEERING BBM103: Introduction to Programming Laboratory I (Fall 2018)
